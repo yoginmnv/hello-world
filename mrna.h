@@ -3,4 +3,4 @@
 #endif
 
 #define MRNA "mrna"
-#define WEIGHT 5.5
+#define WEIGHT 5.6
